@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related local APIs"
   contactDetails:
     name: "John Doe - Developer"
-    email: "{cypher}fc269a070c7f4fc3f95ca23c5cf2bb3068d9bf4f566d3a4dd699807dd452a3063d2522fa01eb79ce070e3b76191812fd"
+    email: "john@sebaDevBank.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
